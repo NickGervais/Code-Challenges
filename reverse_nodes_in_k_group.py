@@ -71,4 +71,3 @@ result = Solution().reverseKGroup(head, 3)
 while result != None:
     print(result.val)
     result = result.next
-
